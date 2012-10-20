@@ -1,6 +1,6 @@
 === 0.3 / 2012-10-20
 
-* Upgrade to Hoe 2.x
+* Upgrade to Hoe 3.x
 
 === 0.2 / 2009-03-06
 

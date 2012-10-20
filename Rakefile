@@ -1,11 +1,9 @@
 require 'hoe'
 require './lib/hellohoe.rb'
 
-Hoe.new('hellohoe', HelloHoe::VERSION) do |p|
-  
-  p.rubyforge_name = 'vanrb'
+Hoe.spec 'hellohoe' do
+  self.version = HelloHoe::VERSION
 
-  p.author = 'Gerald Bauer'
-  p.email  = 'vanrb@googlegroups.com'
-
+  self.author  = 'Gerald Bauer'
+  self.email   = 'gerald.bauer@example.com'
 end
