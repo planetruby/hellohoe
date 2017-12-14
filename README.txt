@@ -1,6 +1,6 @@
 = hellohoe
 
-* https://github.com/geraldb/hellohoe
+* https://github.com/planetruby/hellohoe
 
 == DESCRIPTION:
 
